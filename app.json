@@ -23,7 +23,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "20516707"
+      "value": "1908424352"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
@@ -54,7 +54,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.t.me/fx_karthik"
+      "value": "https://www.t.me/DK121DK"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
